@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">voice player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_of_the_song">name_of_the_song</string>
+    <string name="_4_21">4:21</string>
+    <string name="playing_song_name">playing song name</string>
+    <string name="vioce_command_off">VOICE COMMAND : OFF</string>
+    <string name="_0_0">0:0</string>
+    <string name="_4_20">4:20</string>
+    <string name="current_playing_song_name_is_displayed_here">current_playing_song_name_is_displayed_here</string>
+    <string name="voice_command">long press for to give voice command</string>
+    <string name="click_for_next_song">click for next song</string>
+</resources>
